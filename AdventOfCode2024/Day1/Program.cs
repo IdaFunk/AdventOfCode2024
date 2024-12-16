@@ -9,7 +9,7 @@ namespace Day1
         {
             Task1 task1 = new Task1();
 
-            task1.PrintAnswer("Hello from another file!  !!!");
+            task1.PrintAnswer();
         }
     }
 }
