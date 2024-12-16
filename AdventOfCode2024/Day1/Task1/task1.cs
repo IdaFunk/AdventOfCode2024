@@ -53,7 +53,7 @@ namespace Day1.task1
         }
 
 
-        public void PrintAnswer(string message)
+        public void PrintAnswer()
         {
             (List<int> array1, List<int> array2) = ReadFile("Task1/input.txt");
             int diff = SumDiff(array1, array2);
